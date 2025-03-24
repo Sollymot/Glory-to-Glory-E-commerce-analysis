@@ -14,8 +14,11 @@ Glory to Glory e-commerce store intends to carry out an exploratory data analysi
 - Changed the purchase amount to from text format to currency
 - The date column was formatted and made uniform.
 - The date column was divided into 3 columns to include day, month and year.
+- Dashboard Interaction A <a href = "https://github.com/Sollymot/Glory-to-Glory-E-commerce-analysis/blob/main/Dashboard%20A.png">View Dashboard</a>
+- Dashboard Interaction B <a href = "https://github.com/Sollymot/Glory-to-Glory-E-commerce-analysis/blob/main/Dashboard%20B.png">View Dashboard</a>
 ## Dashboard
-- Dashboard Interaction <a href = "https://github.com/Sollymot/Glory-to-Glory-E-commerce-analysis/blob/main/Dashboard%20A.png">View Dashboard</a>
+![Dashboard A](https://github.com/user-attachments/assets/d1f6421f-a862-41a4-98f2-d94531e2c9ca)
+![Dashboard B](https://github.com/user-attachments/assets/b3ee3739-5e43-4e6a-84fc-de8b0a53784c)
 
 ## Key Insights
 - Spending amount was almost the same for both young and old, with younger customers spending a little bit more (with $139k) than older ones ($136k).
