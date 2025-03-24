@@ -18,6 +18,7 @@ Glory to Glory e-commerce store intends to carry out an exploratory data analysi
 - Dashboard Interaction B <a href = "https://github.com/Sollymot/Glory-to-Glory-E-commerce-analysis/blob/main/Dashboard%20B.png">View Dashboard</a>
 ## Dashboard
 ![Dashboard A](https://github.com/user-attachments/assets/d1f6421f-a862-41a4-98f2-d94531e2c9ca)
+
 ![Dashboard B](https://github.com/user-attachments/assets/b3ee3739-5e43-4e6a-84fc-de8b0a53784c)
 
 ## Key Insights
