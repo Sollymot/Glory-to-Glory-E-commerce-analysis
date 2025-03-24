@@ -1,2 +1,4 @@
 # Glory-to-Glory-E-commerce-analysis
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyse trend in data. This involves several stages which include data preparation, cleaning, and visualization.
+## Project Objectives
+Glory to Glory e-commerce store intends to carry out an exploratory data analysis on their data in order to uncover trends and patterns in the business for proactive and data-guided decisions. This analysis will help the e-commerce store to understand their customers age group, spending behaviours among other factors.
+
