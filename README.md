@@ -15,7 +15,8 @@ Glory to Glory e-commerce store intends to carry out an exploratory data analysi
 - The date column was formatted and made uniform.
 - The date column was divided into 3 columns to include day, month and year.
 ## Dashboard
-https://github.com/Sollymot/Glory-to-Glory-E-commerce-analysis/blob/main/Dashboard%20A.png
+- Dashboard Interaction <a href = "https://github.com/Sollymot/Glory-to-Glory-E-commerce-analysis/blob/main/Dashboard%20A.png">View Dashboard</a>
+
 ## Key Insights
 - Spending amount was almost the same for both young and old, with younger customers spending a little bit more (with $139k) than older ones ($136k).
 - Individuals with high income patronize more from the two age groups
